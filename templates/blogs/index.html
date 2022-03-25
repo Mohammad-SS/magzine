@@ -1,0 +1,86 @@
+{% extends "blogs/base.html" %}
+{% load static %}
+
+
+{% block title %}
+    {{ blog.title }}
+{% endblock %}
+
+{% block content %}
+
+    <section class="section">
+        <div class="container my-custom-container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <div class="page-wrapper mainbox">
+                        <div class="blog-top clearfix">
+                            <h4 class="pull-right"><a href="#"><i class="fa fa-rss"></i></a>آخرین اخبار</h4>
+                        </div><!-- end blog-top -->
+
+                        <div class="blog-list clearfix">
+                            {% for post in posts %}
+                                <div class="blog-box row">
+                                    <div class="col-md-4">
+                                        <div class="post-media">
+                                            <a href="{% url 'main:post-page' blog_slug=blog.slug post_slug=post.slug %}"
+                                               title="">
+                                                {% if post.image %}
+                                                    <img src="{{ post.image.url }}" alt="" class="img-fluid">
+                                                {% else %}
+                                                    <img src="{% static 'blogs' %}/images/default-post-thumb.jpg" alt=""
+                                                         class="img-fluid">
+
+                                                {% endif %}
+
+                                                <div class="hovereffect"></div>
+                                            </a>
+                                        </div><!-- end media -->
+                                    </div><!-- end col -->
+
+                                    <div class="blog-meta big-meta col-md-8">
+                                        <h4><a href="{% url 'main:post-page' blog_slug=blog.slug post_slug=post.slug %}"
+                                               title="">{{ post.title }}</a>
+                                        </h4>
+                                        <p>
+                                            {% autoescape off %}
+                                                {{ post.summary }} ...
+                                            {% endautoescape %}
+                                        </p>
+                                        {#                                        <small class="firstsmall"><a class="bg-green" href="category-01.html" title="">انتخابات</a></small>#}
+                                        <small><a href="single.html"
+                                                  title="">{{ post.persian_created_date }}</a></small>
+                                    </div><!-- end meta -->
+                                </div><!-- end blog-box -->
+                                <hr class="invis">
+                            {% endfor %}
+
+
+                        </div><!-- end blog-list -->
+                    </div><!-- end page-wrapper -->
+
+                    <hr class="invis">
+
+                    <div class="row">
+                        <div class="col-md-12">
+                            <nav aria-label="Page navigation">
+                                <ul class="pagination justify-content-start">
+
+                                    {% for page in pages %}
+                                        <li class="page-item"><a class="page-link"
+                                                                 href="{% url 'main:blog-page' blog_slug=blog.slug %}?page={{ page|add:1 }}">{{ page|add:1 }}</a>
+                                        </li>
+                                    {% endfor %}
+                                    <li class="page-item">
+                                        <a class="page-link" href="#">صفحه بعد</a>
+                                    </li>
+                                </ul>
+                            </nav>
+                        </div><!-- end col -->
+                    </div><!-- end row -->
+                </div><!-- end col -->
+
+
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </section>
+{% endblock %}

@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Site Metas -->
+    <title>{% block title %}
+        {{ blog.title }} - {{ post.title }}
+    {% endblock %} </title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    {% load static %}
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="{% static 'blogs' %}/images/favicon.ico" type="image/x-icon"/>
+    <link rel="apple-touch-icon" href="{% static 'blogs' %}/images/apple-touch-icon.png">
+
+    <!-- Design fonts -->
+    <link href="{% static 'blogs' %}/css/css.css" rel="stylesheet"/>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{% static 'blogs' %}/css/bootstrap.css" rel="stylesheet">
+
+    <!-- FontAwesome Icons core CSS -->
+    <link href="{% static 'blogs' %}/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{% static 'blogs' %}/style.css" rel="stylesheet">
+
+    <!-- Responsive styles for this template -->
+    <link href="{% static 'blogs' %}/css/responsive.css" rel="stylesheet">
+
+    <!-- Colors for this template -->
+    <link href="{% static 'blogs' %}/css/colors.css" rel="stylesheet">
+
+    <!-- Version Tech CSS for this template -->
+    <link href="{% static 'blogs' %}/css/version/tech.css" rel="stylesheet">
+    {% block optional-css %}
+
+    {% endblock %}
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+
+<div id="wrapper">
+    {% if blog.banner.url %}
+        <div class="topheada" style="background-image: url('{{ blog.banner.url }}')">
+    {% else %}
+        <div class="topheada" style="background-image: url('{% static 'blogs/' %}/images/head.jpg'">
+    {% endif %}
+    <div class="container">
+        <div class="row ">
+
+            <div class="col-lg-12 ">
+
+            </div>
+        </div>
+    </div>
+    </div>
+    <header class="tech-header header">
+
+        <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse">
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+                    data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false"
+                    aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarCollapse">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="{% url 'main:blog-page' blog_slug=blog.slug %}">صفحه نخست</a>
+                    </li>
+                    <li class="nav-item">
+{#                        <a class="nav-link" href="category-08.html">پرداخت</a>#}
+                    </li>
+
+                </ul>
+            </div>
+        </nav>
+
+    </header><!-- end market-header -->
+    {% block content %}
+
+    {% endblock %}
+    <footer class="footer">
+        <div class="container my-custom-container">
+            <div class="row secfooter2">
+                <div class="col-lg-12 text-center">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <h2 class="widget-title">
+
+                            </h2>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="copyright">تمامی حقوق برای<a href="https://farzaneganpub.ir"> انتشارات
+                                فرزانگان </a>محفوظ است.
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!-- end container -->
+    </footer><!-- end footer --><!-- end footer -->
+    <div class="dmtop">بالا</div>
+
+    </div><!-- end wrapper -->
+
+    <!-- Core JavaScript
+    ================================================== -->
+    <script src="{% static 'blogs' %}/js/jquery.min.js"></script>
+    <script src="{% static 'blogs' %}/js/tether.min.js"></script>
+    <script src="{% static 'blogs' %}/js/bootstrap.min.js"></script>
+    <script src="{% static 'blogs' %}/js/custom.js"></script>
+    {% block optional-js %}
+
+    {% endblock %}
+</body>
+</html>

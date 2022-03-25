@@ -1,0 +1,800 @@
+2022-03-24 16:24:01.833333 [UID:1429][2633700] Child process with pid: 2635294 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/mazimii1/magzine/passenger_wsgi.py", line 1, in <module>
+    from bloga.wsgi import application
+ModuleNotFoundError: No module named 'bloga.wsgi'
+2022-03-24 16:24:02.050540 [UID:1429][2635383] Child process with pid: 2635386 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:05.237992 [UID:1429][2635383] Child process with pid: 2636685 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:06.271922 [UID:1429][2635383] Child process with pid: 2637108 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:25.750927 [UID:1429][2635383] Child process with pid: 2642171 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:25.938612 [UID:1429][2635383] Child process with pid: 2642201 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:26.587070 [UID:1429][2635383] Child process with pid: 2642332 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:26.857291 [UID:1429][2635383] Child process with pid: 2642392 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/mazimii1/magzine/passenger_wsgi.py", line 1, in <module>
+    from bloga.wsgi import application
+ModuleNotFoundError: No module named 'bloga.wsgi'
+2022-03-24 16:24:31.572021 [UID:1429][2643612] Child process with pid: 2643614 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:31.885353 [UID:1429][2643612] Child process with pid: 2643666 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:32.548109 [UID:1429][2643612] Child process with pid: 2644061 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:32.883984 [UID:1429][2643612] Child process with pid: 2644103 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:33.474557 [UID:1429][2643612] Child process with pid: 2644214 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:34.134810 [UID:1429][2643612] Child process with pid: 2644331 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:34.336058 [UID:1429][2643612] Child process with pid: 2644374 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:34.455607 [UID:1429][2643612] Child process with pid: 2644404 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:34.650451 [UID:1429][2643612] Child process with pid: 2644436 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:34.943048 [UID:1429][2643612] Child process with pid: 2644509 was killed by signal: 15, core dump: 0
+2022-03-24 16:24:35.149567 [UID:1429][2643612] Child process with pid: 2644618 was killed by signal: 15, core dump: 0
+Traceback (most recent call last):
+  File "/home/mazimii1/magzine/passenger_wsgi.py", line 1, in <module>
+    from bloga.wsgi import application
+ModuleNotFoundError: No module named 'bloga.wsgi'
+Not Found: /static/admin/css/fonts.css
+Not Found: /favicon.ico
+Not Found: /static/main/css/fontawesome.min.css
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/js/jquery.min.js
+Not Found: /static/main/js/headroom.min.js
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/js/imagesloaded.min.js
+Not Found: /static/main/js/bricks.min.js
+Not Found: /static/main/img/logos/header-light.png
+Not Found: /static/main/js/main.min.js
+Not Found: /static/main/uploads/banner-domain-search.jpg
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/css/fontawesome.min.css
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/css/fontawesome.min.css
+Not Found: /static/main/js/jquery.min.js
+Not Found: /static/main/uploads/banner-domain-search.jpg
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/js/imagesloaded.min.js
+Not Found: /static/main/js/bricks.min.js
+Not Found: /static/main/js/main.min.js
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/js/headroom.min.js
+Not Found: /static/main/img/logos/header-light.png
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/nav_sidebar.js
+2022-03-24 16:32:28.177683 [UID:1429][2760631] Child process with pid: 2761450 was killed by signal: 15, core dump: 0
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+2022-03-24 16:32:28.645134 [UID:1429][2760631] Child process with pid: 2762375 was killed by signal: 15, core dump: 0
+2022-03-24 16:32:28.789941 [UID:1429][2760631] Child process with pid: 2762766 was killed by signal: 15, core dump: 0
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /favicon.ico
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/admin/css/base.css
+Not Found: /static/admin/css/login.css
+Not Found: /static/admin/css/nav_sidebar.css
+Not Found: /static/admin/css/responsive.css
+Not Found: /static/admin/js/nav_sidebar.js
+Not Found: /static/main/js/imagesloaded.min.js
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/js/bricks.min.js
+Not Found: /static/main/js/headroom.min.js
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/css/fontawesome.min.css
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/js/jquery.min.js
+Not Found: /static/main/js/headroom.min.js
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/js/imagesloaded.min.js
+Not Found: /static/main/js/bricks.min.js
+Not Found: /static/main/img/logos/header-light.png
+Not Found: /static/main/uploads/banner-domain-search.jpg
+Not Found: /static/main/js/main.min.js
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /favicon.ico
+Not Found: /main/js/js.cookie.min.js
+Not Found: /favicon.ico
+Not Found: /static/js/js.cookie.min.js
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/css/fontawesome.min.css
+Not Found: /static/main/js/jquery.min.js
+Not Found: /static/main/uploads/banner-domain-search.jpg
+Not Found: /static/main/js/js.cookie.min.js
+Not Found: /static/main/js/imagesloaded.min.js
+Not Found: /static/main/js/bricks.min.js
+Not Found: /static/main/css/main.min.css
+Not Found: /static/main/img/logos/header-light.png
+Not Found: /static/main/js/headroom.min.js
+Not Found: /static/main/js/main.min.js
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/img/icons/favicon.ico
+Not Found: /static/main/js/headroom.min.js
+Not Found: /favicon.ico
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 55, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/conf.py", line 17, in include
+    urlconf_module, app_name = arg
+ValueError: too many values to unpack (expected 2)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 560, in resolve
+    for pattern in self.url_patterns:
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 602, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 595, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/mazimii1/magzine/bloga/urls.py", line 27, in <module>
+    ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) +static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/conf.py", line 21, in include
+    'Cannot override the namespace for a dynamic module that '
+django.core.exceptions.ImproperlyConfigured: Cannot override the namespace for a dynamic module that provides a namespace.
+Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/conf.py", line 17, in include
+    urlconf_module, app_name = arg
+ValueError: too many values to unpack (expected 2)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 167, in _get_response
+    callback, callback_args, callback_kwargs = self.resolve_request(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 290, in resolve_request
+    resolver_match = resolver.resolve(request.path_info)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 560, in resolve
+    for pattern in self.url_patterns:
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 602, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 48, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 595, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib64/python3.7/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1006, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/mazimii1/magzine/bloga/urls.py", line 27, in <module>
+    ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT) +static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/conf.py", line 21, in include
+    'Cannot override the namespace for a dynamic module that '
+django.core.exceptions.ImproperlyConfigured: Cannot override the namespace for a dynamic module that provides a namespace.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 57, in get
+    if request.user.is_superuser:
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    return redirect("admin:Index")
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    return redirect("admin:index")
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    return redirect("admin:index")
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    return redirect("admin:index")
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    pass
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 58, in get
+    pass
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 41, in redirect
+    return redirect_class(resolve_url(to, *args, **kwargs))
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/shortcuts.py", line 130, in resolve_url
+    return reverse(to, args=args, kwargs=kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/base.py", line 86, in reverse
+    return resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/urls/resolvers.py", line 698, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'Index' not found. 'Index' is not a valid view function or pattern name.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Internal Server Error: /accounts/dashboard
+Traceback (most recent call last):
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/views/generic/base.py", line 98, in dispatch
+    return handler(request, *args, **kwargs)
+  File "/home/mazimii1/magzine/accounts/views.py", line 59, in get
+    context = context_loader(request.user)
+  File "/home/mazimii1/magzine/accounts/helper.py", line 5, in context_loader
+    profile = user.profile
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/utils/functional.py", line 247, in inner
+    return func(self._wrapped, *args)
+  File "/home/mazimii1/virtualenv/magzine/3.7/lib/python3.7/site-packages/django/db/models/fields/related_descriptors.py", line 424, in __get__
+    self.related.get_accessor_name()
+django.contrib.auth.models.User.profile.RelatedObjectDoesNotExist: User has no profile.
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /.well-known/acme-challenge/BLO6BAU86H-LAU2LM0-ITNYFC1-RO_WY
+Not Found: /.well-known/acme-challenge/Z5FJMEUIXIUUNGAT90EFJ4RSOYOQ-L9L
+Not Found: /.well-known/acme-challenge/NGT8PP82JTALQXICYHLQ7C7MYUK2JTBH
+Not Found: /wp-content/uploads/2022/03/Sunrise_Dam_Gold_Mine_open_pit_11-scaled.jpg
+Not Found: /wp-content/uploads/2022/02/electrician_04-min.png
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+Not Found: /wp-content/uploads/2022/02/electrician_09-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_19-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_22-min.jpg
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+Not Found: /wp-content/uploads/2022/03/Sunrise_Dam_Gold_Mine_open_pit_11-scaled.jpg
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+Not Found: /wp-content/uploads/2022/02/electrician_04-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_09-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_19-min.png
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+Not Found: /wp-content/uploads/2022/02/electrician_04-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_09-min.png
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+Not Found: /wp-content/uploads/2022/03/Sunrise_Dam_Gold_Mine_open_pit_11-scaled.jpg
+Not Found: /wp-content/uploads/2022/02/electrician_22-min.jpg
+Not Found: /wp-content/uploads/2022/02/electrician_19-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_04-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_09-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_19-min.png
+Not Found: /wp-content/uploads/2022/03/Sunrise_Dam_Gold_Mine_open_pit_11-scaled.jpg
+Not Found: /wp-content/uploads/2022/02/electrician_22-min.jpg
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+Not Found: /.well-known/acme-challenge/9H5KQEQC79XKHZBW-SBK0V9BJQHZOAPV
+Not Found: /.well-known/acme-challenge/RIE9792AG7SZ5K55A-03-3ND0F22B1CW
+Not Found: /.well-known/acme-challenge/CE5XQ46Y0GNW27M_U1Q-ZXNMMMNR-U-J
+Not Found: /robots.txt
+Not Found: /.well-known/acme-challenge/4SS1RS2MGUNVAZ2O6HH2HJ2XGO6__6Q-
+Not Found: /.well-known/acme-challenge/9WOR-2D8H3SZMXVPWBR42HV9GQAKDX_C
+Not Found: /.well-known/acme-challenge/N8FNCRLSHJGIQQPO7P30HG-L56VJ4_R7
+Not Found: /robots.txt
+Not Found: /software/design-graphics/
+Not Found: /.well-known/acme-challenge/E5S2-O_O3CX-VBYXZU3BEXEOLA7FPDTH
+Not Found: /.well-known/acme-challenge/8Z8UZB30OMM52VCXD6MT67V0S6_8I-G_
+Not Found: /.well-known/acme-challenge/-5RMCDEPSCTKQ3HRVC79YQBUAGA2VRB8
+Not Found: /wp-login.php
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /.well-known/acme-challenge/CRLXYE928UIP1ZA-EOHF4QNHPL32OPMW
+Not Found: /.well-known/acme-challenge/KP49A2QVU3_4J6BELSROM_RT-EYKG9NE
+Not Found: /.well-known/acme-challenge/4CMKI6EHNXR3KYUC29FVA13XD199KAOZ
+Not Found: /.env
+Not Found: /robots.txt
+Not Found: /products-dedicated-cloud.html
+Not Found: /.well-known/acme-challenge/Q9RTE2-Z3NCTESNJZQE7B369DD22_ZCM
+Not Found: /.well-known/acme-challenge/7HXOX8RL4VUS4U1JV0WKQS3T387GSMXM
+Not Found: /.well-known/acme-challenge/O5YUB9-OHLUL5GV8EK0IZ67USAEZ3KDO
+Not Found: /wp-content/uploads/2022/03/Sunrise_Dam_Gold_Mine_open_pit_11-scaled.jpg
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.ttf
+Not Found: /wp-content/uploads/2022/02/electrician_19-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_04-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_09-min.png
+Not Found: /wp-content/uploads/2022/02/electrician_22-min.jpg
+Not Found: /wp-content/themes/Divi/core/admin/fonts/modules/all/modules.woff
+Not Found: /.env
+Not Found: /.well-known/acme-challenge/97CCK5AW78AGLRIAPD-O__1RUOCJ7HB6
+Not Found: /.well-known/acme-challenge/EEEFPSZAKQS2LMWG5HGFU14_5GAX53-T
+Not Found: /.well-known/acme-challenge/N0R67ZC1KYQVATS9136E61H167W42OV_
+Not Found: /robots.txt
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /.well-known/acme-challenge/LKDKFTZXR0J6AA4L4ZOBICKNO6ZQPRIN
+Not Found: /.well-known/acme-challenge/KI1U7N5VIXFGZ8V8070P7AI4OR15YWU-
+Not Found: /.well-known/acme-challenge/XNOV2OMT6AF8OI23IIOW5-1_AOLELL5O
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff
+Not Found: /static/main/webfonts/IRANSansWeb_UltraLight.woff2
+Not Found: /static/main/webfonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNc
+Not Found: /static/main/fontIRANSansWeb_UltraLight.woff

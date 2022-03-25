@@ -1,0 +1,58 @@
+{% extends "main/base.html" %}
+{% load static %}
+
+
+{% block content %}
+    <!-- Notification -->
+    <section id="notification" data-dismissible="true" data-title="" data-expires="">
+        <div class="container">
+            <p>
+                سرویس ارسال پیامک موقتا غیر فعال است. این اطلاعیه تستی است و صرفا جهت نمایش تستی اینجا قرارگرفته است .
+            </p>
+        </div>
+    </section>
+    <!-- Content -->
+    <section id="content">
+        {% include "main/search-blog-section.html" %}
+        <!-- Content Row -->
+        {% if last_posts.count %}
+            <section class="content-row content-row-gray">
+                <div class="container">
+                    <header class="content-header">
+                        <h2>
+                            آخرین پست های ارسال شده
+                        </h2>
+                        <p>
+                            روزانه +100 پست در خبرگزاری های ما بارگزاری میشوند . میتوانید 3 پست آخری که ارسال شده اند را
+                            مشاهده
+                            نمایید.
+                        </p>
+                    </header>
+
+                    <div class="column-row align-center-bottom">
+                        {% for last_post in last_posts %}
+                            <div class="column-33">
+                                <div class="testimonial">
+                                    <p class="testimonial-content">
+                                        {{ last_post.summary |striptags }}
+
+                                    </p>
+                                    <p class="testimonial-author">
+                                <span style="color:#1CA3F1"><i
+                                        class="fa fa-calendar icon-left"></i>{{ last_post.persian_created_date }}<br></span>
+                                        <a href="{% url 'main:blog-page' blog_slug=last_post.blog.slug %}"><small> {{ last_post.blog.title }} </small></a>
+                                    </p>
+                                </div>
+                            </div>
+                        {% endfor %}
+
+                    </div>
+
+                </div>
+            </section>
+        {% endif %}
+
+        <!-- Content Row -->
+
+    </section>
+{% endblock %}
