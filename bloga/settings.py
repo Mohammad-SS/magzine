@@ -15,7 +15,10 @@ from pathlib import Path
 import os
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+from bloga.os_detector import OSDetector
+
 BASE_DIR = Path(__file__).resolve().parent.parent
+detected_os = OSDetector()
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
@@ -26,7 +29,7 @@ SECRET_KEY = 'django-insecure-q^li)2xrt^f*qw9p0j7!=(oj66%v+^(8&p68wwmc67m8*+&q_7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["mag.mazimi.ir" , "*"]
+ALLOWED_HOSTS = ["mag.mazimi.ir", "*"]
 
 # Application definition
 
@@ -81,7 +84,7 @@ TEMPLATES = [
                 'django.contrib.messages.context_processors.messages',
             ],
         },
-        "NAME" : "JINJA"
+        "NAME": "JINJA"
     },
 ]
 
@@ -91,24 +94,8 @@ LOGIN_URL = "/accounts/login"
 # https://docs.djangoproject.com/en/4.0/ref/settings/#databases
 
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': "mazimii1_magzine",
-        "USER": "mazimii1_blog",
-        "PASSWORD": "@mirAli89",
-        "HOST": "localhost",
-        'PORT': 5432
-    }
+    'default': detected_os.get_database(),
 }
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': 'mydatabase',
-#     }
-# }
-# Password validation
-# https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -143,10 +130,15 @@ STATIC_URL = '/static/'
 # STATICFILES_DIRS = [
 #     BASE_DIR / "static",
 # ]
-STATIC_ROOT = "/home/mazimii1/magzine/static"
-MEDIA_ROOT = os.path.join(BASE_DIR , "media")
+if (detected_os.os_name == "Linux"):
+    STATIC_ROOT = "/home/mazimii1/magzine/static"
+else:
+    STATICFILES_DIRS = [
+        BASE_DIR / "static",
+    ]
+
+MEDIA_ROOT = os.path.join(BASE_DIR, "media")
 MEDIA_URL = "/media/"
-SITE_URL = "http://mazimi.ir"
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 

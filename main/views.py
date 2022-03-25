@@ -1,7 +1,7 @@
 import jdatetime
 import os
 
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponseNotAllowed
 from django.shortcuts import render, redirect, HttpResponse, get_object_or_404
 from django.views import View
 from bloga import settings
@@ -57,6 +57,9 @@ class ShowPost(View):
 
 
 def PictureUpload(request):
+    if not request.method == "POST":
+        return HttpResponseNotAllowed("این کار نمیکنه :)")
+    site_url = request.META['HTTP_HOST']
     pic = request.FILES['file']
     user = request.user.id
     date = jdatetime.date.today()
@@ -64,7 +67,6 @@ def PictureUpload(request):
     path['private'] = os.path.join(settings.MEDIA_ROOT, str(user), str(date.year), str(date.month))
     fs = FileSystemStorage(path['private'])
     filename = fs.save(pic.name, pic)
-    # file_url = fs.url(filename)
-    # print(file_url)
-    path['public'] = f'{settings.SITE_URL}{settings.MEDIA_URL}/{str(user)}/{str(date.year)}/{str(date.month)}/{filename}'
+    path[
+        'public'] = f'{site_url}{settings.MEDIA_URL}/{str(user)}/{str(date.year)}/{str(date.month)}/{filename}'
     return JsonResponse({"location": path['public']})
